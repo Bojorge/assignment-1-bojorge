@@ -18,5 +18,3 @@ then
 	echo "Error: could not create file"
 	exit 1
 fi
-
-
